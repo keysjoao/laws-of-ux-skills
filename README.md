@@ -172,6 +172,12 @@ Se você usar essas skills num projeto e fizer um fix legal, abre uma issue cont
 - **Formato Skills**: [Anthropic Agent Skills standard](https://docs.claude.com/en/docs/claude-code/skills)
 - **Empacotador**: [@keysjoao](https://github.com/keysjoao) — battle-tested no [Core Educação](https://corestudio.ai)
 
+## 🔗 Skills companions
+
+Se você curtiu essas, dá uma olhada também em:
+
+- ♻️ [**poo-skills**](https://github.com/keysjoao/poo-skills) — 3 skills DRY/SOLID que impedem o Claude de criar código duplicado (prevention, audit, refactor)
+
 ---
 
 <div align="center">
