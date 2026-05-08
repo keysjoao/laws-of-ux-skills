@@ -1,5 +1,7 @@
 <div align="center">
 
+![Laws of UX Skills](assets/cover.png)
+
 # Laws of UX para Claude Code
 
 **3 skills que trazem as 30 Leis de UX direto pro seu fluxo de desenvolvimento.**
